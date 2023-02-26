@@ -4,7 +4,8 @@
 
 ## Code creates:
 
-TBC
+- **group-membership-create.tf** --> Manage Group Membership
+- **group-membership-list.tf** --> List Group Membership of an AD User
 
 ## How to use this code:
 
