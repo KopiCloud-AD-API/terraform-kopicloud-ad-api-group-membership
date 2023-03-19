@@ -13,3 +13,4 @@ output "OUTPUT_kopicloud_group_membership" {
   description = "Added User to an AD Group"
   value       = resource.kopicloud_group_membership.test
 }
+
