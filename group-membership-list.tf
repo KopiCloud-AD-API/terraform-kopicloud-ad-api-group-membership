@@ -10,6 +10,5 @@ data "kopicloud_group_membership_list" "test" {
 # Show Group Membership
 output "OUTPUT_kopicloud_group_membership_list" {
   description = "Show Group Membership"
-  value       = resource.kopicloud_group_membership.test
+  value       = data.kopicloud_group_membership_list.test
 }
-
