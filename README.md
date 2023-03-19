@@ -24,4 +24,3 @@
 - **KopiCloud AD API** available at https://www.kopicloud-ad-api.com
 - **KopiCloud AD API Documentation** available at https://help.kopicloud-ad-api.com
 - **KopiCloud AD API Terraform Registry** at https://registry.terraform.io/providers/KopiCloud-AD-API/ad/latest
-
