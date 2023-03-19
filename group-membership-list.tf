@@ -12,3 +12,4 @@ output "OUTPUT_kopicloud_group_membership_list" {
   description = "Show Group Membership"
   value       = resource.kopicloud_group_membership.test
 }
+
